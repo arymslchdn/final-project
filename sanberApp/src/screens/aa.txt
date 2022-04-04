@@ -1,0 +1,59 @@
+Array [
+  Object {
+    "document_type_id": "4ce61128-4406-46f0-bf9b-225123a85a94",
+    "document_types": Object {
+      "id": "4ce61128-4406-46f0-bf9b-225123a85a94",
+      "name": "Video",
+    },
+    "id": "2ff4eda5-f28d-4d96-a383-36c3c340829a",
+    "lecture_id": "bcf02519-ff66-4dd4-a16d-027d40bdc727",
+    "meta": Object {
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    },
+    "name": "Video lectures",
+    "practices": Array [],
+  },
+  Object {
+    "document_type_id": "8db4dfa0-60a8-4772-bcf6-86799c7d91dd",
+    "document_types": Object {
+      "id": "8db4dfa0-60a8-4772-bcf6-86799c7d91dd",
+      "name": "Lý thuyết",
+    },
+    "id": "f7fde1c1-b059-48f9-b8e0-74e4d3f988c9",
+    "lecture_id": "bcf02519-ff66-4dd4-a16d-027d40bdc727",
+    "meta": Object {
+      "description": "I'm description",
+    },
+    "name": "Theory lesson 1",
+    "practices": Array [],
+  },
+  Object {
+    "document_type_id": "32b7cabd-b5a4-4275-b59b-a8f91616aa5c",
+    "document_types": Object {
+      "id": "32b7cabd-b5a4-4275-b59b-a8f91616aa5c",
+      "name": "Bài tập",
+    },
+    "id": "355685c9-36d7-403e-b324-3d4beb588558",
+    "lecture_id": "bcf02519-ff66-4dd4-a16d-027d40bdc727",
+    "meta": Object {
+      "answers": Array [
+        Object {
+          "id": 0,
+          "label": "2",
+        },
+        Object {
+          "id": 1,
+          "label": "1",
+        },
+        Object {
+          "id": 2,
+          "label": "0",
+        },
+      ],
+      "correct": 0,
+      "question": "1+1 = ?",
+    },
+    "name": "Exercise 1",
+    "practices": Array [],
+  },
+]
